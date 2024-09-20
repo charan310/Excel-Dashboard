@@ -1,5 +1,5 @@
 # Excel-Dashboard-Project
-Overview
+Overview :
 This project focuses on predicting future sales using historical data and various machine learning models. The objective is to help businesses make data-driven decisions, optimize inventory, and manage resources efficiently based on the predicted sales trends.
 
 Key Features:
